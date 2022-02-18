@@ -4,7 +4,7 @@
 </p>
 <p align="center">I am a Full Stack Web Developer and Junior DevOps Enginer.</p>
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=rizkytegar&label=said-boy's+profile+visitor">
+   <img src="https://komarev.com/ghpvc/?username=said-boy&label=said-boy's+profile+visitor">
 </p>
 <p align = "center">
    
