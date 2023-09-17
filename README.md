@@ -6,6 +6,3 @@
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=said-boy&label=said-boy's+profile+visitor">
 </p>
-<p align = "center">
-   <a href="https://said-boy.github.io">My Homepage</a>
-</p>
