@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://said-boy.github.io/](https://said-boy.github.io/)
 
-- 💬 Ask me about **go, gofiber**
+- 💬 Ask me about **go, gofiber, gorm, viper**
 
 - 📫 How to reach me **alkhudrimsaid733@gmail.com**
 
