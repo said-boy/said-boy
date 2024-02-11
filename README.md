@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
- <a href="https://said-boy.github.io/" target="blank">
+ <a href="http://msaidalkhudri.my.id/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="said-boy" />
  </a>
  <a href="https://www.linkedin.com/in/muhammad-said-alkhudri-7b4720234/" target="_blank">
