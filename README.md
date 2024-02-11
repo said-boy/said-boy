@@ -31,7 +31,7 @@
  <a href="https://www.linkedin.com/in/muhammad-said-alkhudri-7b4720234/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="said-boy"/>
  </a>
- <!-- <a href="https://dev.to/said-boy" target="_blank">
+ <!-- <a href="http://msaidalkhudri.my.id/" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="said-boy" />
  </a> -->
 <!--  <a href="https://twitter.com/said-boy_dev" target="_blank">
