@@ -68,6 +68,10 @@
 
 ## Use To Code
 
-[![My Skills](https://skillicons.dev/icons?i=go,java,html,css,bootstrap,tailwind,mysql,mongodb,redis,git)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,vue,go,java,mysql,mongodb,redis,git" />
+  </a>
+</p>
 
 <hr>
